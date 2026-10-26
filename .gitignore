@@ -41,4 +41,5 @@ docker-compose.override.yml
 .env
 .env.local
 
+# Implementation plan
 IMPLEMENTATION_PLAN.md
